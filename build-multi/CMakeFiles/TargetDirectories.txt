@@ -1,0 +1,3 @@
+/home/ghbot/ZED/zed-aruco/build/CMakeFiles/rebuild_cache.dir
+/home/ghbot/ZED/zed-aruco/build/CMakeFiles/edit_cache.dir
+/home/ghbot/ZED/zed-aruco/build/CMakeFiles/ZED_Multi_Reloc_Aruco.dir
