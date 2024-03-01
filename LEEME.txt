@@ -1,0 +1,13 @@
+
+Tests basados en https://github.com/stereolabs/zed-aruco
+
+Crear directorios para build
+Crear el makefile con 
+	cmake -S mono/ -B build-mono/
+	cmake -S multi-camera -B build-multi
+Lanzar make en cada directorio de build
+
+Ejecutar build-multi/ZED_Multi_Reloc_Aruco
+(Requiere display)
+
+Se pueden generar tags con https://chev.me/arucogen/
